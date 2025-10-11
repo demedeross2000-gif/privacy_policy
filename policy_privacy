@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politique de Confidentialité – Open TV</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+      background: #f8f9fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #0d6efd;
+      color: white;
+      text-align: center;
+      padding: 1.5rem;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #0d6efd;
+    }
+    a {
+      color: #0d6efd;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9rem;
+      padding: 2rem 1rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Politique de Confidentialité – Open TV</h1>
+  </header>
+  <main>
+    <h2>Dernière mise à jour : 11 octobre 2025</h2>
+    <p><strong>Développeur :</strong> Consty!!!<br>
+    <strong>Email de contact :</strong> demedeross1000@gmail.com<br>
+    <strong>Pays :</strong> Côte d’Ivoire</p>
+
+    <h2>1. Introduction</h2>
+    <p>Open TV respecte la vie privée de ses utilisateurs. Cette politique décrit comment l’application collecte, utilise et protège vos informations lors de son utilisation.</p>
+
+    <h2>2. Données collectées</h2>
+    <p>L’application ne collecte <strong>aucune donnée personnelle directement</strong> (nom, email, adresse, etc.). Cependant, certains services tiers peuvent collecter des données techniques anonymes.</p>
+
+    <h3>a. Google AdMob (Publicités)</h3>
+    <p>Open TV affiche des publicités fournies par <strong>Google AdMob</strong>. Ce service peut collecter des informations anonymes : identifiant publicitaire (AAID), type d’appareil, version Android, langue, pays, etc.</p>
+    <p>Ces données servent uniquement à personnaliser et mesurer les performances publicitaires.</p>
+    <p>Politique de confidentialité de Google : 
+      <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">https://policies.google.com/privacy</a>
+    </p>
+
+    <h2>3. Sources de contenu IPTV</h2>
+    <p>Open TV ne fournit, n’héberge ni ne distribue aucun flux télévisé payant ou protégé.  
+    Les chaînes affichées proviennent exclusivement de sources publiques telles que :
+      <a href="https://iptv-org.github.io" target="_blank" rel="noopener noreferrer">https://iptv-org.github.io</a>.</p>
+    <p>L’utilisateur peut ajouter ses propres flux sous sa seule responsabilité. Toute diffusion de contenu protégé sans autorisation est interdite.</p>
+
+    <h2>4. Utilisation des informations</h2>
+    <p>Les informations collectées par les services tiers sont utilisées uniquement pour :
+    <ul>
+      <li>afficher des publicités adaptées ;</li>
+      <li>améliorer l’expérience utilisateur ;</li>
+      <li>assurer le bon fonctionnement de l’application.</li>
+    </ul>
+    </p>
+
+    <h2>5. Sécurité des données</h2>
+    <p>Aucune donnée personnelle n’est stockée sur nos serveurs. Les préférences et favoris sont conservés localement sur l’appareil.</p>
+
+    <h2>6. Droits de l’utilisateur</h2>
+    <p>Vous pouvez désactiver la personnalisation des publicités dans les paramètres Android et désinstaller l’application à tout moment pour supprimer toutes les données locales.</p>
+
+    <h2>7. Modifications</h2>
+    <p>Cette politique peut être mise à jour à tout moment. La version la plus récente est toujours disponible sur cette page ou sur la fiche Google Play de l’application.</p>
+
+    <h2>8. Contact</h2>
+    <p>Pour toute question concernant cette politique :<br>
+    📧 <a href="mailto:demedeross1000@gmail.com">demedeross1000@gmail.com</a></p>
+
+    <h2>9. Déclaration de conformité</h2>
+    <p>Open TV s’engage à respecter les règles de Google Play et du DMCA, à retirer tout flux signalé comme illégal et à n’utiliser que des sources publiques libres d’accès.</p>
+  </main>
+
+  <footer>
+    © 2025 Consty!!! – Tous droits réservés.
+  </footer>
+</body>
+</html>
